@@ -2363,7 +2363,7 @@
 		(dnp no)
 		(uuid "0b216cf7-9fb8-4ddb-a2e9-9044db0d9b91")
 		(property "Reference" "J6"
-			(at 194.31 102.87 0)
+			(at 193.04 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2373,9 +2373,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 201.93 111.7599 0)
-			(hide yes)
+		(property "Value" "LED3_IN"
+			(at 193.04 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2750,7 +2749,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 54.61 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2820,7 +2819,7 @@
 		(dnp no)
 		(uuid "41173c23-d4ab-4ccc-b80c-98105f4e622e")
 		(property "Reference" "J1"
-			(at 135.89 102.87 0)
+			(at 133.35 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2830,9 +2829,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "LED1_IN"
 			(at 132.08 101.6 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3117,7 +3115,7 @@
 		(dnp no)
 		(uuid "4ee2d5b1-e4ac-4fa6-917f-1f47ec7ffcc0")
 		(property "Reference" "J3"
-			(at 148.59 104.14 0)
+			(at 146.685 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3126,9 +3124,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 147.955 102.87 0)
-			(hide yes)
+		(property "Value" "LED1_OUT"
+			(at 148.59 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3378,7 +3375,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 54.61 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3804,7 +3801,7 @@
 		(dnp no)
 		(uuid "b64a9765-50cc-44ad-a026-8adabaad2056")
 		(property "Reference" "J8"
-			(at 220.98 102.87 0)
+			(at 220.98 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3814,9 +3811,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 228.6 111.7599 0)
-			(hide yes)
+		(property "Value" "LED4_IN"
+			(at 220.98 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3905,7 +3901,7 @@
 		(dnp no)
 		(uuid "b8cfe199-c2c4-4209-9021-3fc5d7c3ce15")
 		(property "Reference" "J4"
-			(at 168.91 102.87 0)
+			(at 165.1 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3915,9 +3911,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 172.72 111.7599 0)
-			(hide yes)
+		(property "Value" "LED2_IN"
+			(at 165.1 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3952,6 +3947,16 @@
 		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 171.45 110.49 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 171.45 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3996,7 +4001,7 @@
 		(dnp no)
 		(uuid "bdf20e79-7e1b-4893-a676-2733de7ee9b7")
 		(property "Reference" "J5"
-			(at 180.34 102.87 0)
+			(at 180.34 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4005,9 +4010,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 180.975 102.87 0)
-			(hide yes)
+		(property "Value" "LED2_OUT"
+			(at 181.61 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4343,7 +4347,7 @@
 		(dnp no)
 		(uuid "f124dcc9-9500-43c1-ad27-6620804ab28e")
 		(property "Reference" "J9"
-			(at 236.22 102.87 0)
+			(at 234.95 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4352,9 +4356,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 236.855 102.87 0)
-			(hide yes)
+		(property "Value" "LED4_OUT"
+			(at 238.76 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4516,10 +4519,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fab56ef8-ec6a-4712-a2c2-32ad43d11c35")
 		(property "Reference" "J7"
-			(at 208.915 102.87 0)
+			(at 207.01 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4528,9 +4530,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 208.915 102.87 0)
-			(hide yes)
+		(property "Value" "LED3_OUT"
+			(at 210.82 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4564,6 +4565,16 @@
 		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 208.28 110.49 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 208.28 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
