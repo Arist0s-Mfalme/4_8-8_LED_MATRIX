@@ -2384,7 +2384,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 200.66 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2485,7 +2485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -2759,7 +2759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 54.864 142.494 90)
 			(hide yes)
 			(show_name no)
@@ -2840,7 +2840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 138.43 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -3134,7 +3134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 147.32 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -3235,7 +3235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 144.78 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -3311,7 +3311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 144.78 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -3385,7 +3385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 54.864 129.794 90)
 			(hide yes)
 			(show_name no)
@@ -3467,7 +3467,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 143.51 45.974 0)
 			(hide yes)
 			(show_name no)
@@ -3822,7 +3822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 227.33 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -3922,7 +3922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 171.45 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4020,7 +4020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 180.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4366,7 +4366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 236.22 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4467,7 +4467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 144.78 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -4540,7 +4540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 208.28 110.49 0)
 			(hide yes)
 			(show_name no)

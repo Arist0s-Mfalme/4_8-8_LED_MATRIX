@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "button, 1825967-1") (type "KiCad") (uri "${KIPRJMOD}/library/S1,  S2: 1825967-1") (options "") (descr ""))
+	(lib (name "button,  SS12D07VG4") (type "KiCad") (uri "${KIPRJMOD}/library/S3: SS12D07VG4") (options "") (descr ""))
+	(lib (name "Arduino, ArduinoProMiniSimple") (type "KiCad") (uri "${KIPRJMOD}/library/U1: ArduinoProMiniSimple") (options "") (descr ""))
+)
